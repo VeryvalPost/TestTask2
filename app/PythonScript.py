@@ -57,4 +57,4 @@ while True:
     cursor.close()
     connection.close()
     # wait for 60 seconds
-    time.sleep(3)
+    time.sleep(60)
